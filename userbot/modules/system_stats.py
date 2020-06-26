@@ -67,7 +67,7 @@ async def bot_ver(event):
         revout = str(stdout.decode().strip()) \
             + str(stderr.decode().strip())
 
-        await event.edit("`UserBot Versiyonu: "
+        await event.edit("`CeteUserBot Versiyonu: "
                          f"{verout}"
                          "` \n"
                          "`Toplam değişiklik: "
