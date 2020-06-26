@@ -17,6 +17,7 @@ from telethon import version
 
 from userbot import CMD_HELP
 from userbot.events import register
+from userbot.main import PLUGIN_MESAJLAR
 
 # ================= CONSTANT =================
 DEFAULTUSER = uname().node
