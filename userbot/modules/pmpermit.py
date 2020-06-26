@@ -23,7 +23,7 @@ from userbot.main import PLUGIN_MESAJLAR
 # =================================================================
 
 
-@register(incoming=True, disable_edited=True, disable_errors=True)s
+@register(incoming=True, disable_edited=True, disable_errors=True)
 async def permitpm(event):
     """ İzniniz olmadan size PM gönderenleri yasaklamak içindir. \
         Yazmaya devam eden kullanıcıları engeller. """
