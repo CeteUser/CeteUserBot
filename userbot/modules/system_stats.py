@@ -125,8 +125,7 @@ async def pipcheck(pip):
 
 @register(outgoing=True, pattern="^.alive$")
 async def amialive(e):
-    if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("`Merhaba 💋 CeteUserBot Çalışıyor ✨.`")
+    await e.edit(f"{PLUGIN_MESAJLAR['alive']}")
 
 
 CMD_HELP.update(
