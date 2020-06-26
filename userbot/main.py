@@ -34,7 +34,7 @@ DIZCILIK_STR = [
     "Hey şuraya bak. (☉｡☉)!→\nBen bunu dızlarken...",
     "Güller kırmızı menekşeler mavi, bu çıkartmayı paketime dızlayarak havalı olacağım...",
     "Çıkartma hapsediliyor...",
-    "Bay dızcı bu çıkartmayı dızlıyor... ",s
+    "Bay dızcı bu çıkartmayı dızlıyor... ",
 ]
 
 AFKSTR = [
