@@ -41,5 +41,5 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Cete
 
 ## Credit
 [PaperPlane Repo](https://github.com/RaphielGang/Telegram-Paperplane)
-[Çeviri İçin TeamDerUntergang Ekibine Teşekkürler] (https://github.com/TeamDerUntergang/Telegram-UserBot)
+[Çeviri İçin TeamDerUntergang Ekibine Teşekkürler](https://github.com/TeamDerUntergang/Telegram-UserBot)
 
