@@ -97,7 +97,7 @@ async def bot_support(wannahelp):
 @register(outgoing=True, pattern="^.creator$")
 async def creator(e):
     await e.edit("Bu bot \n"
-                 "[BristolMyers](https://t.me/@BristolMyers) tarafından geliştirilmiştir. \n")
+                 "[z2softwares](https://t.me/z2softwares) tarafından derlenip, [BristolMyers](https://t.me/@BristolMyers) tarafından geliştirilmiştir. \n")
 
 
 @register(outgoing=True, pattern="^.readme$")
