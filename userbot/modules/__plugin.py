@@ -191,7 +191,7 @@ async def psend(event):
 
     dosya = os.getcwd() + "/userbot/modules/" + modul + ".py"
     if os.path.isfile(dosya):
-        await event.client.send_file(event.chat_id, f"{dosya}", caption="Bu bir [Asena](https://t.me/AsenaUserBot) pluginidir.")
+        await event.client.send_file(event.chat_id, f"{dosya}", caption=".")
         await event.delete()
     else:
         await event.edit("`Böyle bir plugin belki vardı, belki de yoktu. Ama şu an olmadığı kesin.`")
